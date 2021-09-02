@@ -56,7 +56,7 @@ I'm going to focus on using CSS grid and also tinker with images.
 
 ## Author
 
-- Website - [SJ](https://trusting-lamport-d7f7ba.netlify.app/)
+- Website - [SJ](https://github.com/SJ-74)
 - Frontend Mentor - [@SJ-74](https://www.frontendmentor.io/profile/SJ-74)
 
 ## Acknowledgments
