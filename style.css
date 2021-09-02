@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing : border-box;
+}
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+    /* centering the content */
+    display : flex;
+    justify-content : center;
+    align-items : center;
+
+    height : 100vh;
+    /* Adding images to the background */
+    background: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg'), hsl(185, 75%, 39%);;
+    background-repeat: no-repeat;
+    background-position: right calc(47vw + 15%) bottom calc(65vh - 15vw), left calc(40vw + 25%) top calc(72vh - 10vw);
+}
+
+.container{
+    background-color : #fff;
+    text-align : center;
+    border-radius : .875em;
+    margin-inline : 1em;
+    overflow : hidden;
+}
+
+.profile{
+    max-width : 100%;
+    border-radius : 50%;
+    border : 5px solid white;
+    margin-top : -55px;
+}
+
+.title{
+    font-size : 1.125em;
+    color : hsl(229, 23%, 23%);
+}
+
+.title__name{
+    margin-block : .75em .5em;
+}
+
+.top__card{
+    max-width : 100%;
+}
+
+.age{
+    margin-left : .875em;
+    font-weight : 400;
+    color : hsl(0, 0%, 59%);
+}
+
+.city{
+    font-size : .875em;
+    font-weight : 400;
+    color : hsl(0, 0%, 59%);
+}
+
+.info{
+    padding-bottom : 3em;
+    border-bottom : 1px solid #ededed;
+}
+
+.figures{
+    display : flex;
+    padding : 1.5em .5em;
+}
+
+.items{
+    flex : 1;
+}
+
+.item__title{
+    color :hsl(0, 0%, 59%);
+    font-size : .875em;
+    font-weight : 400;
+    letter-spacing : 1px;
+    margin-top : .5em;
+}
+
+.attribution { font-size: 11px; text-align: center; position : absolute; bottom : 0;}
+.attribution a { color: hsl(228, 45%, 44%); }
