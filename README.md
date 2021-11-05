@@ -23,8 +23,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution URL(Github)](https://github.com/SJ-74/profile-card-component)
-- Live Site URL: [Live site URL](https://trusting-lamport-d7f7ba.netlify.app/)
+- Solution URL: [https://github.com/SJ-74/profile-card-component]
+- Live Site URL: [https://frontmentor-profile-card-component.netlify.app]
 
 ## My process
 
@@ -32,7 +32,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Semantic HTML5 markup
 - Flexbox
--Basic CSS
+- Basic CSS
 
 ### What I learned
 
@@ -56,7 +56,7 @@ I'm going to focus on using CSS grid and also tinker with images.
 
 ## Author
 
-- Website - [SJ](https://github.com/SJ-74)
+- Website - [SJ](https://github.com/SJ-74/)
 - Frontend Mentor - [@SJ-74](https://www.frontendmentor.io/profile/SJ-74)
 
 ## Acknowledgments
